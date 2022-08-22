@@ -16,5 +16,13 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.19"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tydewest/MissionControl.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Tydewest/MissionControl/issues"
+  },
+  "homepage": "https://github.com/Tydewest/MissionControl#readme"
 }
