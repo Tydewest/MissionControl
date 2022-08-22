@@ -6,7 +6,7 @@
   "scripts": {
     "Production": "node Application.js",
     "Development": "nodemon Application.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 0"
   },
   "author": "Lachy Schumacher",
   "license": "MIT",
